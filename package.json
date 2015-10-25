@@ -1,7 +1,9 @@
 {
   "name": "ny",
   "version": "0.0.1",
-  "dependencies": {},
+  "dependencies": {
+    "step": "0.0.6"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "author": {
